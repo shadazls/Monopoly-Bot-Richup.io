@@ -1,0 +1,16 @@
+# Ignore le fichier contenant des informations de connexion
+.env
+
+# Ignore le fichier utile uniquement au développeur
+archive.py
+
+# Ignore le répertoire .idea de PyCharm
+.idea/
+
+# Ignore le répertoire .venv des environnements virtuels Python
+.venv/
+
+# Ignore le répertoire dist contenant les artefacts distribuables
+dist/
+
+build/
