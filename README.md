@@ -24,7 +24,6 @@ The bot uses Selenium to control a web browser and perform the necessary actions
 ## Usage
 
 1. Run the `main.py` file
-2. Follow the instructions to start a game or choose a predefined scenario
 
 ## Author
 
